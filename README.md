@@ -41,6 +41,7 @@ The Core Philosophy of Nocturn
 - [NOC-02](02.md) - Tracker system
 - [NOC-03](03.md) - Relay to Relay communications
 - [NOC-04](04.md) - Search Capability
+- [NOC-05](05.md) - The `#t` tag
 
 ## License
 
